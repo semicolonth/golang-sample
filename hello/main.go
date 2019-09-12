@@ -1,5 +1,14 @@
+/*
+Package hello package
+
+
+*/
 package hello
 
-func hello() {
+/*
+Hello Func
+
+*/
+func Hello() {
 	println("Hello from Golang")
 }
