@@ -9,7 +9,7 @@ package maths
 Dot The Dot
 */
 type Dot struct {
-	x, y float64
+	X, Y float64
 }
 
 /*
